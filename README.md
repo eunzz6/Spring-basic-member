@@ -1,4 +1,4 @@
-# 🎈Spring Framework 사용한 회원관리 프로젝트
+# 🎈Spring Framework 사용한 회원관리
 <br>
 
 ✔ 주요 기능
